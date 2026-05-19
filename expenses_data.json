@@ -1,0 +1,13 @@
+{
+  "expenses": [
+    {
+      "id": "199c1568",
+      "amount": 200.0,
+      "category": "Bills",
+      "description": "No description",
+      "date": "2026-05-19",
+      "month": "2026-05"
+    }
+  ],
+  "budgets": {}
+}
